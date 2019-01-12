@@ -6,21 +6,21 @@
   Voici le lien  https://orientdb.com/download-2/      choisir celui de  windows
 
 
-    2. Aller dans le chemin du fichier extracté, ouvrir le bin, et après lancer le server.bat (fichier ed commande pour lancer le serveur )
+    2. Aller dans le chemin du fichier extractÃ©, ouvrir le bin, et aprÃ¨s lancer le server.bat (fichier de commande pour lancer le serveur )
 
-    3. Le serveur peut etre consulté en localhost (dans localhost:2480 par défaut).
+    3. Le serveur peut etre consultÃ© en localhost (dans localhost:2480 par dÃ©faut).
 
-    4. Créer une base de donnée "demo" avec le login "admin" et le password "admin" ( Memes valeurs )
+    4. CrÃ©er une base de donnÃ©e "demo" avec le login "admin" et le password "admin" ( Memes valeurs )
 
-    5. Créer et insérer les données: Cette étape est détaillée dans le rapport .
+    5. CrÃ©er et insÃ©rer les donnÃ©es: Cette Ã©tape est dÃ©taillÃ©e dans le rapport .
 
     6. Importer le code de github voici le lien :
           
            https://github.com/elafoui/StationProj
 
-    7. Importer le projet dans l'IDE (Eclipse ou Neatbeans avec le java swing installé, ainsi que les jars de Orientdb )
+    7. Importer le projet dans l'IDE (Eclipse ou Neatbeans avec le java swing installÃ©, ainsi que les jars de Orientdb )
 
-      Les jars à ajouter dans le class PATH :
+      Les jars Ã  ajouter dans le class PATH :
                 
                   concurrentlinkedhashmap-lru-1.4.2
                   jna-4.5.0
